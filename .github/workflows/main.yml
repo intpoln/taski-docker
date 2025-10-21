@@ -65,4 +65,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: intpoln/taski_backend:latest
+          tags: intpoln6/taski_backend:latest
